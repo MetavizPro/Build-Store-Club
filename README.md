@@ -1,5 +1,6 @@
 # Build-Store-Club
-In this project developed website a domainis a marketplace for domain names buying, selling and transferring domains goes smoothly and hassle-free.
+Domainis is a streamlined marketplace for buying, selling, and transferring domain names, ensuring smooth and hassle-free transactions. Built on the Brilliant Directories platform, it connects domain buyers and sellers with ease, offering advanced search features, secure transfers, and auction capabilities for a seamless user experience.
+
 # Domainis: A Marketplace for Buying, Selling, and Transferring Domain Names
 
 The **Domainis Marketplace** is a user-friendly platform that simplifies the buying, selling, and transferring of domain names. Built on the **Brilliant Directories** platform, this project ensures that domain transactions are smooth and hassle-free. Whether you're an individual looking to purchase a domain or a business interested in selling your domain portfolio, **Domainis** is designed to cater to all needs in the domain market.
@@ -9,6 +10,7 @@ The **Domainis Marketplace** is a user-friendly platform that simplifies the buy
 ## 💡 Project Overview
 
 In this project, I created a dynamic marketplace that connects domain buyers and sellers. Built on the **Brilliant Directories** platform, **Domainis** makes domain transactions easy, secure, and fast. Users can browse available domains, list their own for sale, and transfer ownership smoothly without any hassle. This project aims to streamline the entire process of domain buying and selling.
+
 
 ![image](https://github.com/user-attachments/assets/ffda22d2-e34f-44fd-ae28-58c6f9b02116)
 
